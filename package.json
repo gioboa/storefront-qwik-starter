@@ -38,9 +38,9 @@
 	"devDependencies": {
 		"@angular/compiler": "^16.2.1",
 		"@angular/compiler-cli": "^16.2.1",
-		"@builder.io/qwik": "github:gioboa/qwik-labs-build#qwik",
+		"@builder.io/qwik": "github:gioboa/qwik-labs-build#37adf94d8def0d0e70765b09d83a6485e6ae6699",
 		"@builder.io/qwik-city": "1.2.10",
-		"@builder.io/qwik-labs": "github:gioboa/qwik-labs-build#66821686340854b59a69c122b6102956ade2c23a",
+		"@builder.io/qwik-labs": "github:gioboa/qwik-labs-build#1f81836fbe171c73a8d68d526ff9968273348427",
 		"@graphql-codegen/cli": "^5.0.0",
 		"@graphql-codegen/introspection": "^4.0.0",
 		"@graphql-codegen/typescript": "^4.0.1",
